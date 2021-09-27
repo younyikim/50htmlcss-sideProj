@@ -4,4 +4,4 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | Expanding Cards | [Live Demo](https://github.com/younyikim/50htmlcss-sideProj/1.Expanding_Cards/index.html)  |
+| 01  | Expanding Cards | [Live Demo](https://younyikim.github.io/50htmlcss-sideProj/1.Expanding_Cards/index.html)  |
