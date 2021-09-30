@@ -6,4 +6,4 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | Expanding Cards | [Live Demo](https://younyikim.github.io/50htmlcss-sideProj/1.Expanding_Cards/index.html)  |
 | 02  | Progress Steps | [Live Demo](https://younyikim.github.io/50htmlcss-sideProj/2.Progress_Steps/index.html)  |
-| 03  | Rotating Navigation | [Live Demo] (https://younyikim.github.io/50htmlcss-sideProj/3.RotatingNavigation/index.html)|
+| 03  | Rotating Navigation | [Live Demo](https://younyikim.github.io/50htmlcss-sideProj/3.Rotating%20Navigation/index.html)  |
