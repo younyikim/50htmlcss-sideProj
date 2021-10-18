@@ -11,7 +11,7 @@
 | 05  | Blurry Loading | [Live Demo](https://younyikim.github.io/50sideProject/5.Blurry_Loading/index.html)  |
 | 06  | Scroll Animation | [Live Demo](https://younyikim.github.io/50sideProject/6.Scroll_Animation/index.html)  |
 | 07  | Split Landing Page | [Live Demo](https://younyikim.github.io/50sideProject/7.Split_Landing_Page/index.html)  |
-| 08  | Form Wave |  |
+| 08  | Form Wave |  [Live Demo](https://younyikim.github.io/50sideProject/8.Form_Wave/index.html) |
 | 09  | Event Keycodes |  |
 | 10  | Faq Collapse |  |
 | 11  | Random Choice Picker |  |
